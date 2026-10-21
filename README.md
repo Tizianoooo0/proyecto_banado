@@ -1,2 +1,2 @@
 # proyecto_banado
-Este sitio web es en concientizqacion sobre la escula virgen de lujan
+Este sitio web muestra lo realizado en nuestra visita a la Escuela Virgen de Luján 
